@@ -1,0 +1,7 @@
+{
+  "name": "notesharehub-vercel-firebase",
+  "version": "2.0.0",
+  "private": true,
+  "description": "NoteShareHub full-stack student note sharing app using Vercel and Firebase.",
+  "scripts": {"start": "python -m http.server 3000"}
+}
